@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Business_Card_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Business_Card_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Business_Card_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/IBM Calc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/IBM Calc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/IBM Calc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/capturing_persisting_images_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/capturing_persisting_images_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/capturing_persisting_images_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/currency_changing_application/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/currency_changing_application/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/currency_changing_application/build" />
+      <excludeFolder url="file://$MODULE_DIR$/form_validation_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/form_validation_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/form_validation_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/temp_converter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temp_converter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/temp_converter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

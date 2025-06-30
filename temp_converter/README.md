@@ -1,10 +1,10 @@
 # Temperature Converter App 
 <img width="929" alt="Screenshot 2025-06-30 at 10 29 14 AM" src="https://github.com/user-attachments/assets/350202e3-eb12-451a-bb0a-1719889cd5df" />
 
-## Project Overview
+## Overview
 A Flutter-based mobile application designed to convert temperatures between different units (Celsius, Fahrenheit, and Kelvin) based on user input. This exercise aims to teach fundamental skills in Flutter development.
 
-## Lab Objectives
+## Objectives
 - **Apply Dart Programming Skills**: Utilize Dart programming and Flutter widgets to create a functioning mobile app
 - **User Input Handling**: Understand the concept of user input, processing data, and displaying output
 - **Dynamic UI Implementation**: Implement app features such as drop-down menus, text fields, and dynamic results based on user interaction

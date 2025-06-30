@@ -1,4 +1,4 @@
-# Business Card Application (Lab Progress 3)
+# Business Card Application 
 
 <img width="956" alt="Screenshot 2025-06-30 at 10 40 40 AM" src="https://github.com/user-attachments/assets/ea90dc75-cf0d-4037-875c-e50794d90f1b" />
 
